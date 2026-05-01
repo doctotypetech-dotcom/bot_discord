@@ -12,7 +12,7 @@ from collections import defaultdict, Counter
 from datetime import datetime
 
 # =====================================================
-# CHATBOT MARKOV AVEC LONGUEUR MINIMALE DE PHRASE (7 mots par défaut)
+# CHATBOT AVEC LONGUEUR MINIMALE DE PHRASE (7 mots par défaut)
 # =====================================================
 
 class PhraseMarkovBot:
